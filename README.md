@@ -6,6 +6,13 @@
 
 ## Установка и настройка
 
+### Клонирование репозитория
+
+```bash
+git clone https://github.com/YuriiGaponov/testtask-api-testing-automation-python.git
+cd testtask-api-testing-automation-python
+```
+
 ### Создание виртуального окружения
 
 1. **Создание окружения:**
